@@ -1,0 +1,4 @@
+[2021-05-22T19:50:06.817] [FATAL] cheese - connected to database, app listening on port 3000
+[2021-05-22T19:50:09.399] [FATAL] cheese - /Transaction/History/1
+[2021-05-22T19:50:09.399] [FATAL] cheese - {}
+[2021-05-22T19:50:09.682] [FATAL] cheese - {"history":[{"type":"credit","amount":500,"to":"self","date":"2021-05-22T14:02:22.493Z","transaction_id":"1621692142493AqQBupZRW3TEunZa6g1hEf9Hb1DIWR","is_success":true},{"type":"credit","amount":100,"from":2,"date":"2021-05-22T14:03:33.006Z","transaction_id":"1621692212182NMKVImr0kW9wXzNBjwmAcPHiLRPDtS","is_success":true},{"type":"credit","amount":100,"from":2,"date":"2021-05-22T14:03:35.213Z","transaction_id":"1621692214393jqb33ba3nvuYOEO4ljxuxbKtpwKgFJ","is_success":true},{"type":"debit","amount":100,"to":2,"date":"2021-05-22T14:03:42.193Z","transaction_id":"16216922213813MlEfk0tBLXj8TWrakmceESGNoEjRj","is_success":true}],"errCode":"SUCCESS"}
